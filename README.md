@@ -34,10 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Previsão do Tempo é a forma mais pratica de acessar a temperatura do mundo todo!
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/9EVnTjsvThhHfas7s6nKul/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10%3A620&mode=design&t=sY2z8hu7vpwNziLG-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
